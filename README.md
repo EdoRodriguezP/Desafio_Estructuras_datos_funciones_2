@@ -1,6 +1,6 @@
 # Desafio_Estructuras_datos_funciones_2
 
-# 📝 Descripción
+## 📝 Descripción
 
 La empresa de desarrollo de software **DESARROLLA** se encuentra actualmente trabajando en muchos proyectos distintos. Es tanta la demanda que te solicita trabajar en 3 soluciones que tienen pendientes. Para ello, te entregarán los requerimientos de cada tarea y deberás implementar una función que entregue la solución a cada problema.
 
