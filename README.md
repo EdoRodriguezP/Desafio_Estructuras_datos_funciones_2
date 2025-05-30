@@ -1,4 +1,4 @@
-# Desaf-o_Estructuras-_datos-_funciones_2
+# Desafio_Estructuras_datos_funciones_2
 
 # 📝 Descripción
 
